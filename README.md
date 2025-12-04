@@ -8,8 +8,8 @@
 
 ## Hi there 👋
 
-I’m **Nadir Grib**, a Junior Full-Stack Developer based in Montreal, QC.  
-I build scalable applications with clean architecture and strong attention to performance, user experience, and maintainability.
+I’m Nadir Grib, a Junior Full-Stack Developer based in Montreal, QC.
+I create scalable applications with clean architecture, focusing on performance, user experience, and maintainability. I’m particularly passionate about fintech, as I believe this industry has great potential to help people better understand and manage their finances, as well as their relationship with financial institutions.
 
 ---
 
@@ -101,8 +101,12 @@ I build scalable applications with clean architecture and strong attention to pe
 
 ### Currently Learning
 
-- kdb+ / q language  
-- Spring Boot
+<a href="https://kx.com" target="_blank">
+  <img src="https://img.shields.io/badge/kdb%2B-000000?style=for-the-badge&logo=kx&logoColor=white" />
+</a><br>
+<a href="https://spring.io/projects/spring-boot" target="_blank">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+</a>
 
 ---
 
