@@ -101,27 +101,15 @@ I build scalable applications with clean architecture and strong attention to pe
 
 ### Currently Learning
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-- Cloud + DevOps pipelines  
-- Cybersecurity tooling
-
-</td>
-<td width="50%" valign="top">
-
 - kdb+ / q language  
-
-</td>
-</tr>
-</table>
+- Spring Boot
 
 ---
 
 ### Contact
 📩 **Email:** nadirgrib95@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/nadir-grib/
+<br>
 📍 **Localisation:** Montreal, QC
 
 ---
